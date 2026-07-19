@@ -50,8 +50,6 @@ The project aims to answer key business questions such as:
               Power BI Dashboards
 ```
 
-*(Insert Architecture Diagram here)*
-
 ---
 
 # Data Warehouse Design
@@ -75,8 +73,6 @@ The warehouse is designed using a **Star Schema** consisting of:
 - Learning Activity
 
 The dimensional model enables efficient analytical reporting while minimizing query complexity.
-
-*(Insert Star Schema image here)*
 
 ---
 
@@ -118,8 +114,6 @@ The Executive Dashboard provides a high-level business overview of the Healthcar
 - Course Completion Status
 - Delivery Mode Distribution
 
-*(Insert Dashboard Screenshot 1)*
-
 ---
 
 # Learning Analytics Dashboard
@@ -144,8 +138,6 @@ The Learning Analytics Dashboard focuses on learner engagement and assessment pe
 - Instructor Active Status
 - Monthly Learning Activity Trend
 - Instructor Experience Distribution
-
-*(Insert Dashboard Screenshot 2)*
 
 ---
 
